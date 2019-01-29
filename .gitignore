@@ -1,0 +1,7 @@
+CVS/*
+/.classpath
+*.classpath
+/WebContent_video.zip
+.settings/*
+bin/*
+.idea/
