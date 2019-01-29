@@ -2,7 +2,4 @@
 
 Using Tecnologies
 
-*Java
-*REST API
-*SQL SERVER
-*JWT TOKEN
+Java, REST API, SQL SERVER, JWT TOKEN
