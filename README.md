@@ -1,4 +1,4 @@
-# VeterinaryRESTAPIü
+# VeterinaryRESTAPI
 
 Using Tecnologies
 
